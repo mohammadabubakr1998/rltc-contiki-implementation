@@ -1,5 +1,5 @@
 # rltc-contiki-implementation
->Implementation of "A Reliable and Lightweight Trust Computing Mechanism for IoT Edge Devices Based on Multi-Source Feedback Information Fusion" (https://ieeexplore.ieee.org/document/8352868)
+>### Implementation of "A Reliable and Lightweight Trust Computing Mechanism for IoT Edge Devices Based on Multi-Source Feedback Information Fusion" (https://ieeexplore.ieee.org/document/8352868)
 
 1. On contiki / cooja simulator.
 2. Complie Broker.c as node 1 and Node.c as other nodes.
