@@ -7,4 +7,4 @@
 4. Other nodes will then generate trust value (till now based on randomly generated values). And send the trust value to broker node.
 5. Broker node will then send this trust value to the requestor node.
 
-> :warning: I don't know if its 100% correct. So verify the algorithm from the research article before using it any where
+> :warning: I'm not sure if its 100% correct. I did it for a project but didn't verified. So verify the algorithm from the research article before using it any where.
